@@ -1,3 +1,6 @@
 [submodule "Projetos/sd-030-a-project-frontend-online-store"]
 	path = Projetos/sd-030-a-project-frontend-online-store
 	url = https://github.com/tryber/sd-030-a-project-frontend-online-store.git
+[submodule "Projetos/sd-030-a-project-shopping-cart"]
+	path = Projetos/sd-030-a-project-shopping-cart
+	url = https://github.com/tryber/sd-030-a-project-shopping-cart.git
