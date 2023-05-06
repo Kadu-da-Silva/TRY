@@ -7,3 +7,6 @@
 [submodule "Projetos/sd-030-a-project-react-testing-library"]
 	path = Projetos/sd-030-a-project-react-testing-library
 	url = https://github.com/tryber/sd-030-a-project-react-testing-library.git
+[submodule "Projetos/sd-030-a-project-solar-system"]
+	path = Projetos/sd-030-a-project-solar-system
+	url = https://github.com/tryber/sd-030-a-project-solar-system.git
