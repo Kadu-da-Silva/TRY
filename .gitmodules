@@ -1,0 +1,18 @@
+[submodule "Projetos/sd-030-a-project-frontend-online-store"]
+	path = Projetos/sd-030-a-project-frontend-online-store
+	url = https://github.com/tryber/sd-030-a-project-frontend-online-store.git
+[submodule "Projetos/sd-030-a-project-shopping-cart"]
+	path = Projetos/sd-030-a-project-shopping-cart
+	url = https://github.com/tryber/sd-030-a-project-shopping-cart.git
+[submodule "Projetos/sd-030-a-project-react-testing-library"]
+	path = Projetos/sd-030-a-project-react-testing-library
+	url = https://github.com/tryber/sd-030-a-project-react-testing-library.git
+[submodule "Projetos/sd-030-a-project-solar-system"]
+	path = Projetos/sd-030-a-project-solar-system
+	url = https://github.com/tryber/sd-030-a-project-solar-system.git
+[submodule "Projetos/sd-030-a-project-trybetunes"]
+	path = Projetos/sd-030-a-project-trybetunes
+	url = https://github.com/tryber/sd-030-a-project-trybetunes.git
+[submodule "Projetos/sd-030-a-project-tryunfo"]
+	path = Projetos/sd-030-a-project-tryunfo
+	url = https://github.com/tryber/sd-030-a-project-tryunfo.git
