@@ -13,3 +13,6 @@
 [submodule "Projetos/sd-030-a-project-trybetunes"]
 	path = Projetos/sd-030-a-project-trybetunes
 	url = https://github.com/tryber/sd-030-a-project-trybetunes.git
+[submodule "Projetos/sd-030-a-project-tryunfo"]
+	path = Projetos/sd-030-a-project-tryunfo
+	url = https://github.com/tryber/sd-030-a-project-tryunfo.git
