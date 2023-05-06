@@ -10,3 +10,6 @@
 [submodule "Projetos/sd-030-a-project-solar-system"]
 	path = Projetos/sd-030-a-project-solar-system
 	url = https://github.com/tryber/sd-030-a-project-solar-system.git
+[submodule "Projetos/sd-030-a-project-trybetunes"]
+	path = Projetos/sd-030-a-project-trybetunes
+	url = https://github.com/tryber/sd-030-a-project-trybetunes.git
