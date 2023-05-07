@@ -39,3 +39,6 @@
 [submodule "Exercícios/exercise-react-router"]
 	path = Exercícios/exercise-react-router
 	url = https://github.com/Kadu-da-Silva/exercise-react-router.git
+[submodule "Exercícios/exercise-todo-list"]
+	path = Exercícios/exercise-todo-list
+	url = git@github.com:Kadu-da-Silva/exercise-todo-list.git
