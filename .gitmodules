@@ -16,3 +16,6 @@
 [submodule "Projetos/sd-030-a-project-tryunfo"]
 	path = Projetos/sd-030-a-project-tryunfo
 	url = https://github.com/tryber/sd-030-a-project-tryunfo.git
+[submodule "Exercícios/exercise-frontend-content"]
+	path = Exercícios/exercise-frontend-content
+	url = https://github.com/tryber/sd-030-a-exercise-frontend-content.git
