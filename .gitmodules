@@ -23,3 +23,6 @@
 	path = Exercícios/exercise-pokedex
 	url = https://github.com/tryber/sd-030-a-exercise-pokedex.git
 	
+[submodule "Exercícios/exercise-pokedex-router"]
+	path = Exercícios/exercise-pokedex-router
+	url = https://github.com/tryber/sd-030-a-exercise-pokedex-router.git
