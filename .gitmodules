@@ -42,3 +42,6 @@
 [submodule "Exercícios/exercise-todo-list"]
 	path = Exercícios/exercise-todo-list
 	url = git@github.com:Kadu-da-Silva/exercise-todo-list.git
+[submodule "Exercícios/exercise-trybe-rpg-battle"]
+	path = Exercícios/exercise-trybe-rpg-battle
+	url = https://github.com/Kadu-da-Silva/exercise-trybe-rpg-battle.git
