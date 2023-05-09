@@ -45,3 +45,6 @@
 [submodule "Exercícios/exercise-trybe-rpg-battle"]
 	path = Exercícios/exercise-trybe-rpg-battle
 	url = https://github.com/Kadu-da-Silva/exercise-trybe-rpg-battle.git
+[submodule "Exercícios/exercise-react-with-redux-intro"]
+	path = Exercícios/exercise-react-with-redux-intro
+	url = https://github.com/Kadu-da-Silva/exercise-react-with-redux-intro.git
