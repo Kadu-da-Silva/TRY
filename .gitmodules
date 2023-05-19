@@ -51,3 +51,6 @@
 [submodule "Exercícios/exercise-forms-redux"]
 	path = Exercícios/exercise-forms-redux
 	url = https://github.com/tryber/sd-030-a-exercise-forms-redux.git
+[submodule "Projetos/sd-030-a-project-trybewallet"]
+	path = Projetos/sd-030-a-project-trybewallet
+	url = https://github.com/tryber/sd-030-a-project-trybewallet.git
