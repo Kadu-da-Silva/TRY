@@ -1,0 +1,53 @@
+[submodule "Projetos/sd-030-a-project-frontend-online-store"]
+	path = Projetos/sd-030-a-project-frontend-online-store
+	url = https://github.com/tryber/sd-030-a-project-frontend-online-store.git
+[submodule "Projetos/sd-030-a-project-shopping-cart"]
+	path = Projetos/sd-030-a-project-shopping-cart
+	url = https://github.com/tryber/sd-030-a-project-shopping-cart.git
+[submodule "Projetos/sd-030-a-project-react-testing-library"]
+	path = Projetos/sd-030-a-project-react-testing-library
+	url = https://github.com/tryber/sd-030-a-project-react-testing-library.git
+[submodule "Projetos/sd-030-a-project-solar-system"]
+	path = Projetos/sd-030-a-project-solar-system
+	url = https://github.com/tryber/sd-030-a-project-solar-system.git
+[submodule "Projetos/sd-030-a-project-trybetunes"]
+	path = Projetos/sd-030-a-project-trybetunes
+	url = https://github.com/tryber/sd-030-a-project-trybetunes.git
+[submodule "Projetos/sd-030-a-project-tryunfo"]
+	path = Projetos/sd-030-a-project-tryunfo
+	url = https://github.com/tryber/sd-030-a-project-tryunfo.git
+[submodule "Exercícios/exercise-frontend-content"]
+	path = Exercícios/exercise-frontend-content
+	url = https://github.com/tryber/sd-030-a-exercise-frontend-content.git
+[submodule "Exercícios/exercise-pokedex"]
+	path = Exercícios/exercise-pokedex
+	url = https://github.com/tryber/sd-030-a-exercise-pokedex.git
+	
+[submodule "Exercícios/exercise-pokedex-state"]
+	path = Exercícios/exercise-pokedex-state
+	url = https://github.com/tryber/sd-030-a-exercise-pokedex-state.git
+[submodule "Exercícios/exercise-react-form"]
+	path = Exercícios/exercise-react-form
+	url = https://github.com/tryber/sd-030-a-exercise-react-form.git
+[submodule "Exercícios/exercise-digimon-finders"]
+	path = Exercícios/exercise-digimon-finders
+	url = https://github.com/Kadu-da-Silva/exercise-digimon-finders.git
+
+[submodule "Exercícios/exercise-pokedex-router"]
+	path = Exercícios/exercise-pokedex-router
+	url = https://github.com/tryber/sd-030-a-exercise-pokedex-router.git
+[submodule "Exercícios/exercise-react-router"]
+	path = Exercícios/exercise-react-router
+	url = https://github.com/Kadu-da-Silva/exercise-react-router.git
+[submodule "Exercícios/exercise-todo-list"]
+	path = Exercícios/exercise-todo-list
+	url = git@github.com:Kadu-da-Silva/exercise-todo-list.git
+[submodule "Exercícios/exercise-trybe-rpg-battle"]
+	path = Exercícios/exercise-trybe-rpg-battle
+	url = https://github.com/Kadu-da-Silva/exercise-trybe-rpg-battle.git
+[submodule "Exercícios/exercise-react-with-redux-intro"]
+	path = Exercícios/exercise-react-with-redux-intro
+	url = https://github.com/Kadu-da-Silva/exercise-react-with-redux-intro.git
+[submodule "Exercícios/exercise-forms-redux"]
+	path = Exercícios/exercise-forms-redux
+	url = https://github.com/tryber/sd-030-a-exercise-forms-redux.git
