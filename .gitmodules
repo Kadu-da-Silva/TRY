@@ -52,3 +52,6 @@
 [submodule "Projetos/project-trybetunes"]
 	path = Projetos/project-trybetunes
 	url = https://github.com/tryber/sd-030-a-project-trybetunes.git
+[submodule "Projetos/project-tryunfo"]
+	path = Projetos/project-tryunfo
+	url = https://github.com/tryber/sd-030-a-project-tryunfo.git
