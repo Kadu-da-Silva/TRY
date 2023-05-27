@@ -1,3 +1,6 @@
 [submodule "Exercícios/exercise-digimon-finders-tests"]
 	path = Exercícios/exercise-digimon-finders-tests
 	url = https://github.com/Kadu-da-Silva/exercise-digimon-finders.git
+[submodule "Exercícios/exercise-forms-redux"]
+	path = Exercícios/exercise-forms-redux
+	url = https://github.com/tryber/sd-030-a-exercise-forms-redux.git
