@@ -46,3 +46,6 @@
 [submodule "Projetos/project-trybewallet"]
 	path = Projetos/project-trybewallet
 	url = https://github.com/tryber/sd-030-a-project-trybewallet.git
+[submodule "Projetos/project-react-testing-library"]
+	path = Projetos/project-react-testing-library
+	url = https://github.com/tryber/sd-030-a-project-react-testing-library.git
