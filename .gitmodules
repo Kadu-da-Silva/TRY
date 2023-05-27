@@ -40,3 +40,6 @@
 [submodule "Projetos/project-trivia-react-redux"]
 	path = Projetos/project-trivia-react-redux
 	url = https://github.com/tryber/sd-030-a-project-trivia-react-redux.git
+[submodule "Projetos/project-shopping-cart"]
+	path = Projetos/project-shopping-cart
+	url = https://github.com/tryber/sd-030-a-project-shopping-cart.git
