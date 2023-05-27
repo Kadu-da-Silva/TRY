@@ -4,3 +4,6 @@
 [submodule "Exercícios/exercise-forms-redux"]
 	path = Exercícios/exercise-forms-redux
 	url = https://github.com/tryber/sd-030-a-exercise-forms-redux.git
+[submodule "Exercícios/exercise-pokedex-router"]
+	path = Exercícios/exercise-pokedex-router
+	url = https://github.com/tryber/sd-030-a-exercise-pokedex-router.git
