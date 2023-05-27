@@ -13,3 +13,6 @@
 [submodule "Exercícios/exercise-react-form"]
 	path = Exercícios/exercise-react-form
 	url = https://github.com/tryber/sd-030-a-exercise-react-form.git
+[submodule "Exercícios/exercise-pokedex-state"]
+	path = Exercícios/exercise-pokedex-state
+	url = https://github.com/tryber/sd-030-a-exercise-pokedex-state.git
