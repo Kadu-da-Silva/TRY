@@ -16,3 +16,6 @@
 [submodule "Exercícios/exercise-pokedex-state"]
 	path = Exercícios/exercise-pokedex-state
 	url = https://github.com/tryber/sd-030-a-exercise-pokedex-state.git
+[submodule "Exercícios/exercise-pokedex"]
+	path = Exercícios/exercise-pokedex
+	url = https://github.com/tryber/sd-030-a-exercise-pokedex.git
