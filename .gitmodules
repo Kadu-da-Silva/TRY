@@ -58,3 +58,6 @@
 [submodule "Projetos/project-solar-system"]
 	path = Projetos/project-solar-system
 	url = https://github.com/tryber/sd-030-a-project-solar-system.git
+[submodule "Exercícios/exercise-ghibli-animations"]
+	path = Exercícios/exercise-ghibli-animations
+	url = https://github.com/Kadu-da-Silva/exercise-ghibli-animations.git
