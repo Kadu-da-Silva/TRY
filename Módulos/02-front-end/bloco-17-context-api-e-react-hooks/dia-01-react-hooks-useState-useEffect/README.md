@@ -13,7 +13,7 @@ Dica: Utilize o hook useState para gerenciar o estado do seu componente!
 
 ## Exercícios - agora, a prática:
 
-TrybeMail
+# TrybeMail
 Neste exercício, vamos desenvolver uma aplicação que renderiza uma lista de e-mails. A aplicação deve permitir que seja possível marcar um e-mail como lido ou não lido.
 
 Quando todos os e-mail da lista estiverem lidos, um alert deve ser exibido informando que todas mensagens foram lidas!
