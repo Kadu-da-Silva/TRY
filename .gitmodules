@@ -61,3 +61,6 @@
 [submodule "Exercícios/exercise-ghibli-animations"]
 	path = Exercícios/exercise-ghibli-animations
 	url = https://github.com/Kadu-da-Silva/exercise-ghibli-animations.git
+[submodule "Exercícios/applicant-manager"]
+	path = Exercícios/applicant-manager
+	url = https://github.com/Kadu-da-Silva/applicant-manager.git
