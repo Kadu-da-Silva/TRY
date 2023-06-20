@@ -64,3 +64,9 @@
 [submodule "Exercícios/applicant-manager"]
 	path = Exercícios/applicant-manager
 	url = https://github.com/Kadu-da-Silva/applicant-manager.git
+[submodule "Projetos/project-recipes-app"]
+	path = Projetos/project-recipes-app
+	url = https://github.com/tryber/sd-030-a-project-recipes-app.git
+[submodule "Projetos/project-starwars-planets-search"]
+	path = Projetos/project-starwars-planets-search
+	url = https://github.com/tryber/sd-030-a-project-starwars-planets-search.git
