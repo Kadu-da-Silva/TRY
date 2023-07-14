@@ -1,0 +1,19 @@
+{
+  "name": "my-scripts",
+  "version": "1.0.0",
+  "description": "exercicio trybe backend bloco 4 dia 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bmi": "node bmi.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "carlao0010@hotmail.com"
+  },
+  "author": "Carlos Eduardo da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "1.4.10"
+  }
+}
