@@ -82,3 +82,42 @@ Ter mais de 4 caracteres;
 * Ter apenas 3 classificações: “Fácil”, “Médio” ou “Difícil”;
 * Retornar o status 400 e uma mensagem em formato json;
 * Sugestão: { "message": "O campo difficulty deve ser \'Fácil\', \'Médio\' ou \'Difícil\'" }.
+
+# Exercício 2
+Parabéns! Seu cliente ficou muito satisfeito com o trabalho e solicitou mais alguns requisitos para você implementar. Veja abaixo:
+
+Cadastrar pessoas usuárias das atividades de ecoturismo com as seguintes informações:
+Email;
+Senha;
+Primeiro nome;
+Telefone;
+Permitir que somente pessoas cadastradas realizem o cadastro de novas atividades de ecoturismo.
+Agora, faça os exercícios abaixo:
+
+1. Crie um endpoint POST com a rota /signup para cadastrar pessoas usuárias. Ela deve:
+
+* Ter os campos email, password, firstName e phone obrigatoriamente;
+* Caso os campos não sejam preenchidos, retornar o status 401 - Unauthorized e uma mensagem (formato json);
+* Sugestão: { "message": "Campos ausentes!" }.
+* Gerar um token aleatório válido;
+* Retornar o status 200 e uma mensagem contendo o token (formato json);
+* Sugestão: { token: '<token-aleatorio>' }.
+De olho na dica👀: Para gerar o token você pode utilizar a função randomBytes, do módulo crypto do Node, dessa forma:
+
+```
+const crypto = require('crypto');
+
+function generateToken() {
+  return crypto.randomBytes(8).toString('hex');
+}
+
+module.exports = generateToken;
+```
+
+2. Crie um middleware de autenticação ao endpoint POST com a rota /activities. Ela deve:
+
+* Ser validada por meio do token que foi gerado ao realizar o signup;
+* Ser encontrada pelo header Authorization;
+* Ter exatamente 16 caracteres;
+* Caso o token seja inválido ou inexistente, retornar o status 401 - Unauthorized e uma mensagem (formato json);
+* Sugestão: { "message": "Token inválido!" }.
