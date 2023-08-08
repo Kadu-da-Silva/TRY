@@ -79,3 +79,6 @@
 [submodule "Projetos/project-talker-manager"]
 	path = Projetos/project-talker-manager
 	url = https://github.com/tryber/sd-030-a-project-talker-manager.git
+[submodule "Exercícios/exercise-todo-list-manager"]
+	path = Exercícios/exercise-todo-list-manager
+	url = https://github.com/Kadu-da-Silva/exercise-todo-list-manager.git
