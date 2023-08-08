@@ -76,3 +76,6 @@
 [submodule "Projetos/project-mysql-one-for-all"]
 	path = Projetos/project-mysql-one-for-all
 	url = https://github.com/tryber/sd-030-a-mysql-one-for-all/tree/1491a02f5791431971127daff824a6f4e9a8b53c
+[submodule "Projetos/project-talker-manager"]
+	path = Projetos/project-talker-manager
+	url = https://github.com/tryber/sd-030-a-project-talker-manager.git
