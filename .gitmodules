@@ -82,6 +82,4 @@
 [submodule "Exercícios/exercise-todo-list-manager"]
 	path = Exercícios/exercise-todo-list-manager
 	url = https://github.com/Kadu-da-Silva/exercise-todo-list-manager.git
-[submodule "Exercícios/exercise-trybecar"]
-	path = Exercícios/exercise-trybecar
-	url = https://github.com/Kadu-da-Silva/trybecar.git
+
