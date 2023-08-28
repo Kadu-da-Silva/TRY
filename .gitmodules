@@ -83,3 +83,6 @@
 	path = Exercícios/exercise-todo-list-manager
 	url = https://github.com/Kadu-da-Silva/exercise-todo-list-manager.git
 
+[submodule "Projetos/project-store-manager"]
+	path = Projetos/project-store-manager
+	url = https://github.com/tryber/sd-030-a-store-manager.git
