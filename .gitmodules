@@ -86,3 +86,6 @@
 [submodule "Projetos/project-store-manager"]
 	path = Projetos/project-store-manager
 	url = https://github.com/tryber/sd-030-a-store-manager.git
+[submodule "Módulos/03-back-end/bloco-24-introducao-ao-typescript/dia-04-testando-aplicacoes-com-typescript/sd-030-a-exercise-trybe-crafts"]
+	path = Módulos/03-back-end/bloco-24-introducao-ao-typescript/dia-04-testando-aplicacoes-com-typescript/sd-030-a-exercise-trybe-crafts
+	url = https://github.com/tryber/sd-030-a-exercise-trybe-crafts.git
