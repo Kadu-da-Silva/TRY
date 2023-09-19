@@ -1,6 +1,6 @@
-# Trybe
+# Trybe 💚📚
 
-Este repositório contém na pasta Módulos um guia de todo o conteúdo durante o curso na [Trybe](https://www.betrybe.com/), seguindo modelo e conteúdos (principalmente os READMEs) fornecidos por [Paulo Simões](https://www.linkedin.com/in/paulohbsimoes/) no seu repositório [trybe-exercises](https://github.com/paulohbsimoes/trybe-exercises). Já na pasta Exercícios e Projetos você será redirecionado para os submodulos dos exercícios e projetos feitos por [mim](https://www.linkedin.com/in/carlos0010) e em grupos enquanto estudava na [Trybe](https://www.betrybe.com/). 
+### Este repositório contém todos os exercícios que desenvolvi durante o meu aprendizado na [Trybe](https://www.betrybe.com/).
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
