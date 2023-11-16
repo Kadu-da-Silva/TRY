@@ -44,6 +44,5 @@ docker stop <container_id>
 # [BÔNUS] Crie e rode de modo interativo em modo ‘Cleanup’, a imagem andrius/ascii-patrol.
 docker pull andrius/ascii-patrol
 
-
 # Exercício 14
 # [BÔNUS] Encerre o container utilizando os botões [ctrl] + [c].
