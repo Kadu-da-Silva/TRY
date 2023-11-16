@@ -39,12 +39,11 @@ docker exit
 # Exercício 12
 # Remova somente o container criado para esse exercício.
 docker stop <container_id>
-docker stop <container_id>
 
 # Exercício 13
 # [BÔNUS] Crie e rode de modo interativo em modo ‘Cleanup’, a imagem andrius/ascii-patrol.
 docker pull andrius/ascii-patrol
-docker run -it --rm andrius/ascii-patrol
+
 
 # Exercício 14
 # [BÔNUS] Encerre o container utilizando os botões [ctrl] + [c].
